@@ -1,0 +1,359 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 17.2.0 d001Apr-09-2019 at 09:16:56 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='WITHRULER_V10A';
+ POST_TIME='Jul 31 2018 12:22:04';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ D1 'BAT54C_SOT23-3_BAT54C':;
+
+SECTION_NUMBER 1
+ '@WITHRULER_V10A.MAIN(SCH_1):INS16919222@IC.BAT54C.NORMAL(CHIPS)':
+ C_PATH='@withruler_v10a.main(sch_1):ins16919222@ic.\bat54c.normal\(chips)',
+ P_PATH='@withruler_v10a.main(sch_1):page2_ins16919222@ic.\bat54c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L1 'IND_BEAD_0805_600OHM_200MA_L301':;
+
+SECTION_NUMBER 1
+ '@WITHRULER_V10A.MAIN(SCH_1):INS16918949@EP_LF_ORCAD_LIBRARY1.IND_BEAD_0805_600OHM_200MA.CONVERT(CHIPS)':
+ C_PATH='@withruler_v10a.main(sch_1):ins16918949@ep_lf_orcad_library1.\ind_bead_0805_600ohm_200ma.convert\(chips)',
+ P_PATH='@withruler_v10a.main(sch_1):page2_ins16918949@ep_lf_orcad_library1.\ind_bead_0805_600ohm_200ma.convert\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L2 'IND_BEAD_0805_600OHM_200MA_L502':;
+
+SECTION_NUMBER 1
+ '@WITHRULER_V10A.MAIN(SCH_1):INS16918982@EP_LF_ORCAD_LIBRARY1.IND_BEAD_0805_600OHM_200MA.CONVERT(CHIPS)':
+ C_PATH='@withruler_v10a.main(sch_1):ins16918982@ep_lf_orcad_library1.\ind_bead_0805_600ohm_200ma.convert\(chips)',
+ P_PATH='@withruler_v10a.main(sch_1):page2_ins16918982@ep_lf_orcad_library1.\ind_bead_0805_600ohm_200ma.convert\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L3 'IND_BEAD_0805_600OHM_200MA_L604':;
+
+SECTION_NUMBER 1
+ '@WITHRULER_V10A.MAIN(SCH_1):INS16918991@EP_LF_ORCAD_LIBRARY1.IND_BEAD_0805_600OHM_200MA.CONVERT(CHIPS)':
+ C_PATH='@withruler_v10a.main(sch_1):ins16918991@ep_lf_orcad_library1.\ind_bead_0805_600ohm_200ma.convert\(chips)',
+ P_PATH='@withruler_v10a.main(sch_1):page2_ins16918991@ep_lf_orcad_library1.\ind_bead_0805_600ohm_200ma.convert\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L4 'IND_BEAD_0805_600OHM_200MA_L804':;
+
+SECTION_NUMBER 1
+ '@WITHRULER_V10A.MAIN(SCH_1):INS16919010@EP_LF_ORCAD_LIBRARY1.IND_BEAD_0805_600OHM_200MA.CONVERT(CHIPS)':
+ C_PATH='@withruler_v10a.main(sch_1):ins16919010@ep_lf_orcad_library1.\ind_bead_0805_600ohm_200ma.convert\(chips)',
+ P_PATH='@withruler_v10a.main(sch_1):page2_ins16919010@ep_lf_orcad_library1.\ind_bead_0805_600ohm_200ma.convert\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'R_GENERIC_R0402_1K':;
+
+SECTION_NUMBER 1
+ '@WITHRULER_V10A.MAIN(SCH_1):INS16918761@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@withruler_v10a.main(sch_1):ins16918761@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@withruler_v10a.main(sch_1):page2_ins16918761@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'R_GENERIC_R0603_1K':;
+
+SECTION_NUMBER 1
+ '@WITHRULER_V10A.MAIN(SCH_1):INS16918774@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@withruler_v10a.main(sch_1):ins16918774@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@withruler_v10a.main(sch_1):page2_ins16918774@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'R_GENERIC_R0805_1K':;
+
+SECTION_NUMBER 1
+ '@WITHRULER_V10A.MAIN(SCH_1):INS16918787@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@withruler_v10a.main(sch_1):ins16918787@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@withruler_v10a.main(sch_1):page2_ins16918787@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'R_GENERIC_R1206_1K':;
+
+SECTION_NUMBER 1
+ '@WITHRULER_V10A.MAIN(SCH_1):INS16918800@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@withruler_v10a.main(sch_1):ins16918800@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@withruler_v10a.main(sch_1):page2_ins16918800@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R5 'R_GENERIC_R2010_1K':;
+
+SECTION_NUMBER 1
+ '@WITHRULER_V10A.MAIN(SCH_1):INS16918813@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@withruler_v10a.main(sch_1):ins16918813@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@withruler_v10a.main(sch_1):page2_ins16918813@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R6 'R_GENERIC_R2512_1K':;
+
+SECTION_NUMBER 1
+ '@WITHRULER_V10A.MAIN(SCH_1):INS16918826@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@withruler_v10a.main(sch_1):ins16918826@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@withruler_v10a.main(sch_1):page2_ins16918826@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW1 'SW DIP-4_1_DM-08-V_DMR-08-V':;
+
+SECTION_NUMBER 1
+ '@WITHRULER_V10A.MAIN(SCH_1):INS16919502@MK60_YTAI_V41G.SW DIP-4_1.NORMAL(CHIPS)':
+ C_PATH='@withruler_v10a.main(sch_1):ins16919502@mk60_ytai_v41g.\sw dip-4_1.normal\(chips)',
+ P_PATH='@withruler_v10a.main(sch_1):page2_ins16919502@mk60_ytai_v41g.\sw dip-4_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW2 'SW DIP-4_0_DM-04-V_DM-04-V':;
+
+SECTION_NUMBER 1
+ '@WITHRULER_V10A.MAIN(SCH_1):INS16919524@STEP_TEST_V10A.SW DIP-4_0.NORMAL(CHIPS)':
+ C_PATH='@withruler_v10a.main(sch_1):ins16919524@step_test_v10a.\sw dip-4_0.normal\(chips)',
+ P_PATH='@withruler_v10a.main(sch_1):page2_ins16919524@step_test_v10a.\sw dip-4_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'AT24C512_SOIC8_AT24C512C-SSHM-T':;
+
+SECTION_NUMBER 1
+ '@WITHRULER_V10A.MAIN(SCH_1):INS16919047@IC.AT24C512.NORMAL(CHIPS)':
+ C_PATH='@withruler_v10a.main(sch_1):ins16919047@ic.\at24c512.normal\(chips)',
+ P_PATH='@withruler_v10a.main(sch_1):page2_ins16919047@ic.\at24c512.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U10 'MT41J256M16_1_FBGA-96_MT41J256M':;
+
+SECTION_NUMBER 1
+ '@WITHRULER_V10A.MAIN(SCH_1):INS16919986@WITHRULER_V10A.MT41J256M16_1.NORMAL(CHIPS)':
+ C_PATH='@withruler_v10a.main(sch_1):ins16919986@withruler_v10a.\mt41j256m16_1.normal\(chips)',
+ P_PATH='@withruler_v10a.main(sch_1):page6_ins16919986@withruler_v10a.\mt41j256m16_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U12 'PCA9539APW_TSSOP24_PCA9539APW':;
+
+SECTION_NUMBER 1
+ '@WITHRULER_V10A.MAIN(SCH_1):INS16924878@IC.PCA9539APW.NORMAL(CHIPS)':
+ C_PATH='@withruler_v10a.main(sch_1):ins16924878@ic.\pca9539apw.normal\(chips)',
+ P_PATH='@withruler_v10a.main(sch_1):page2_ins16924878@ic.\pca9539apw.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U13 'TPS61086_SON10-3R0X3R0X0R5-2R4X':;
+
+SECTION_NUMBER 1
+ '@WITHRULER_V10A.MAIN(SCH_1):INS16925019@IC.TPS61086.NORMAL(CHIPS)':
+ C_PATH='@withruler_v10a.main(sch_1):ins16925019@ic.\tps61086.normal\(chips)',
+ P_PATH='@withruler_v10a.main(sch_1):page2_ins16925019@ic.\tps61086.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U2 'TLV62565DBVR_SOT23-5_TLV62565DB':;
+
+SECTION_NUMBER 1
+ '@WITHRULER_V10A.MAIN(SCH_1):INS16919092@IC.TLV62565DBVR.NORMAL(CHIPS)':
+ C_PATH='@withruler_v10a.main(sch_1):ins16919092@ic.\tlv62565dbvr.normal\(chips)',
+ P_PATH='@withruler_v10a.main(sch_1):page2_ins16919092@ic.\tlv62565dbvr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U3 'MPU-9250_QFN24-4X4X0R5-2R4X2R4_':;
+
+SECTION_NUMBER 1
+ '@WITHRULER_V10A.MAIN(SCH_1):INS16919296@IC.MPU-9250.NORMAL(CHIPS)':
+ C_PATH='@withruler_v10a.main(sch_1):ins16919296@ic.\mpu-9250.normal\(chips)',
+ P_PATH='@withruler_v10a.main(sch_1):page2_ins16919296@ic.\mpu-9250.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U4 'CP2102_0_QFN28-5X5X0R5-3R2X3R2_':;
+
+SECTION_NUMBER 1
+ '@WITHRULER_V10A.MAIN(SCH_1):INS16920776@WITHRULER_V10A.CP2102_0.NORMAL(CHIPS)':
+ C_PATH='@withruler_v10a.main(sch_1):ins16920776@withruler_v10a.\cp2102_0.normal\(chips)',
+ P_PATH='@withruler_v10a.main(sch_1):page2_ins16920776@withruler_v10a.\cp2102_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U5 'AS5048A-HTSP_TSSOP14_AS5048A-HT':;
+
+SECTION_NUMBER 1
+ '@WITHRULER_V10A.MAIN(SCH_1):INS16919190@IC.AS5048A-HTSP.NORMAL(CHIPS)':
+ C_PATH='@withruler_v10a.main(sch_1):ins16919190@ic.\as5048a-htsp.normal\(chips)',
+ P_PATH='@withruler_v10a.main(sch_1):page2_ins16919190@ic.\as5048a-htsp.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U6 'CY7C68013A_3_QFN56-8X8X0R5-5R9X':;
+
+SECTION_NUMBER 1
+ '@WITHRULER_V10A.MAIN(SCH_1):INS16920668@AX545_SCH_LIB.CY7C68013A_3.NORMAL(CHIPS)':
+ C_PATH='@withruler_v10a.main(sch_1):ins16920668@ax545_sch_lib.\cy7c68013a_3.normal\(chips)',
+ P_PATH='@withruler_v10a.main(sch_1):page2_ins16920668@ax545_sch_lib.\cy7c68013a_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U7 'MSP430F5528IRGC_QFN64-9X9X0R5-4':;
+
+SECTION_NUMBER 1
+ '@WITHRULER_V10A.MAIN(SCH_1):INS16919395@IC.MSP430F5528IRGC.NORMAL(CHIPS)':
+ C_PATH='@withruler_v10a.main(sch_1):ins16919395@ic.\msp430f5528irgc.normal\(chips)',
+ P_PATH='@withruler_v10a.main(sch_1):page2_ins16919395@ic.\msp430f5528irgc.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U8 'W25Q256FV/BV_SOIC-16_300_W25Q25':;
+
+SECTION_NUMBER 1
+ '@WITHRULER_V10A.MAIN(SCH_1):INS16920447@AX545_SCH_LIB.W25Q256FV/BV.NORMAL(CHIPS)':
+ C_PATH='@withruler_v10a.main(sch_1):ins16920447@ax545_sch_lib.\w25q256fv/bv.normal\(chips)',
+ P_PATH='@withruler_v10a.main(sch_1):page2_ins16920447@ax545_sch_lib.\w25q256fv/bv.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U9 'XC6SLX16_45_CSG324_XC6SLX16-2CS':;
+
+SECTION_NUMBER 1
+ '@WITHRULER_V10A.MAIN(SCH_1):INS16761343@AX545_SCH_LIB.XC6SLX16_45A.NORMAL(CHIPS)':
+ C_PATH='@withruler_v10a.main(sch_1):ins16761343@ax545_sch_lib.\xc6slx16_45a.normal\(chips)',
+ P_PATH='@withruler_v10a.main(sch_1):page3_ins16761343@ax545_sch_lib.\xc6slx16_45a.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='A';
+
+SECTION_NUMBER 2
+ '@WITHRULER_V10A.MAIN(SCH_1):INS16761889@AX545_SCH_LIB.XC6SLX16_45B.NORMAL(CHIPS)':
+ C_PATH='@withruler_v10a.main(sch_1):ins16761889@ax545_sch_lib.\xc6slx16_45b.normal\(chips)',
+ P_PATH='@withruler_v10a.main(sch_1):page3_ins16761889@ax545_sch_lib.\xc6slx16_45b.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='B';
+
+SECTION_NUMBER 3
+ '@WITHRULER_V10A.MAIN(SCH_1):INS16766810@AX545_SCH_LIB.XC6SLX16_45C.NORMAL(CHIPS)':
+ C_PATH='@withruler_v10a.main(sch_1):ins16766810@ax545_sch_lib.\xc6slx16_45c.normal\(chips)',
+ P_PATH='@withruler_v10a.main(sch_1):page4_ins16766810@ax545_sch_lib.\xc6slx16_45c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='C';
+
+SECTION_NUMBER 4
+ '@WITHRULER_V10A.MAIN(SCH_1):INS16767301@AX545_SCH_LIB.XC6SLX16_45D.NORMAL(CHIPS)':
+ C_PATH='@withruler_v10a.main(sch_1):ins16767301@ax545_sch_lib.\xc6slx16_45d.normal\(chips)',
+ P_PATH='@withruler_v10a.main(sch_1):page4_ins16767301@ax545_sch_lib.\xc6slx16_45d.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='D';
+
+SECTION_NUMBER 5
+ '@WITHRULER_V10A.MAIN(SCH_1):INS16779673@AX545_SCH_LIB.XC6SLX16_45E.NORMAL(CHIPS)':
+ C_PATH='@withruler_v10a.main(sch_1):ins16779673@ax545_sch_lib.\xc6slx16_45e.normal\(chips)',
+ P_PATH='@withruler_v10a.main(sch_1):page5_ins16779673@ax545_sch_lib.\xc6slx16_45e.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='E';
+
+SECTION_NUMBER 6
+ '@WITHRULER_V10A.MAIN(SCH_1):INS16779622@AX545_SCH_LIB.XC6SLX16_45F.NORMAL(CHIPS)':
+ C_PATH='@withruler_v10a.main(sch_1):ins16779622@ax545_sch_lib.\xc6slx16_45f.normal\(chips)',
+ P_PATH='@withruler_v10a.main(sch_1):page5_ins16779622@ax545_sch_lib.\xc6slx16_45f.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='F';
+
+SECTION_NUMBER 7
+ '@WITHRULER_V10A.MAIN(SCH_1):INS16779704@AX545_SCH_LIB.XC6SLX16_45G.NORMAL(CHIPS)':
+ C_PATH='@withruler_v10a.main(sch_1):ins16779704@ax545_sch_lib.\xc6slx16_45g.normal\(chips)',
+ P_PATH='@withruler_v10a.main(sch_1):page5_ins16779704@ax545_sch_lib.\xc6slx16_45g.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='G';
+
+SECTION_NUMBER 8
+ '@WITHRULER_V10A.MAIN(SCH_1):INS16779482@AX545_SCH_LIB.XC6SLX16_45H.NORMAL(CHIPS)':
+ C_PATH='@withruler_v10a.main(sch_1):ins16779482@ax545_sch_lib.\xc6slx16_45h.normal\(chips)',
+ P_PATH='@withruler_v10a.main(sch_1):page5_ins16779482@ax545_sch_lib.\xc6slx16_45h.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='H';
+
+PART_NAME
+ USB2 'TYPE-C_16P_USB_TYPE-C_16P_USB_T':;
+
+SECTION_NUMBER 1
+ '@WITHRULER_V10A.MAIN(SCH_1):INS16921618@CONNECT.TYPE-C_16P.NORMAL(CHIPS)':
+ C_PATH='@withruler_v10a.main(sch_1):ins16921618@connect.\type-c_16p.normal\(chips)',
+ P_PATH='@withruler_v10a.main(sch_1):page2_ins16921618@connect.\type-c_16p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ X1 'XTAL_5032_0_X-2P-3R2X1R5-SMD_XT':;
+
+SECTION_NUMBER 1
+ '@WITHRULER_V10A.MAIN(SCH_1):INS16919066@F407_PACK_V10A.XTAL_5032_0.NORMAL(CHIPS)':
+ C_PATH='@withruler_v10a.main(sch_1):ins16919066@f407_pack_v10a.\xtal_5032_0.normal\(chips)',
+ P_PATH='@withruler_v10a.main(sch_1):page2_ins16919066@f407_pack_v10a.\xtal_5032_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ X2 'TSX-3225_X-4P-3R2X2R5-SMD_X3225':;
+
+SECTION_NUMBER 1
+ '@WITHRULER_V10A.MAIN(SCH_1):INS16919129@ALEX_GENERAL_LIB.TSX-3225.NORMAL(CHIPS)':
+ C_PATH='@withruler_v10a.main(sch_1):ins16919129@alex_general_lib.\tsx-3225.normal\(chips)',
+ P_PATH='@withruler_v10a.main(sch_1):page2_ins16919129@alex_general_lib.\tsx-3225.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ X3 'TSX-3225_X-4P-5R0X3R2-SMD_X3225':;
+
+SECTION_NUMBER 1
+ '@WITHRULER_V10A.MAIN(SCH_1):INS16919146@ALEX_GENERAL_LIB.TSX-3225.NORMAL(CHIPS)':
+ C_PATH='@withruler_v10a.main(sch_1):ins16919146@alex_general_lib.\tsx-3225.normal\(chips)',
+ P_PATH='@withruler_v10a.main(sch_1):page2_ins16919146@alex_general_lib.\tsx-3225.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ X4 'TSX-3225_X-4P-7R0X5R0-SMD_X3225':;
+
+SECTION_NUMBER 1
+ '@WITHRULER_V10A.MAIN(SCH_1):INS16919163@ALEX_GENERAL_LIB.TSX-3225.NORMAL(CHIPS)':
+ C_PATH='@withruler_v10a.main(sch_1):ins16919163@alex_general_lib.\tsx-3225.normal\(chips)',
+ P_PATH='@withruler_v10a.main(sch_1):page2_ins16919163@alex_general_lib.\tsx-3225.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.
